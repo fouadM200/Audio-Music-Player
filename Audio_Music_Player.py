@@ -283,10 +283,3 @@ window.mainloop()
 
 # Quit the mixer
 pygame.mixer.quit()
-
-
-# python3 -m venv venv
-# source venv/bin/activate  (Linux and MacOS)
-# venv\Scripts\activate     (Windows)
-# pip install pygame
-# python3 Audio_Music_Player.py
